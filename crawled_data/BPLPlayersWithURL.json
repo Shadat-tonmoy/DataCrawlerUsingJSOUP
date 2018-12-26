@@ -1,0 +1,705 @@
+[
+  {
+    "teamName": "Dhaka Dynamites",
+    "retained_players": [
+      {
+        "image": "_shakib_al_hasan",
+        "name": " Shakib Al Hasan",
+        "url": "/player/56143"
+      },
+      {
+        "image": "_sunil_narine",
+        "name": " Sunil Narine",
+        "url": "/player/230558"
+      },
+      {
+        "image": "_rovman_powell",
+        "name": " Rovman Powell",
+        "url": "/player/820351"
+      },
+      {
+        "image": "_kieron_pollard.",
+        "name": " Kieron Pollard.",
+        "url": "/player/230559"
+      }
+    ],
+    "direct_signing_players": [
+      {
+        "image": "_andre_russell",
+        "name": " Andre Russell",
+        "url": "/player/276298"
+      },
+      {
+        "image": "_hazratullah_zazai.",
+        "name": " Hazratullah Zazai.",
+        "url": "/player/793457"
+      }
+    ],
+    "players": [
+      {
+        "image": "_rubel_hossain",
+        "name": " Rubel Hossain",
+        "url": "/player/300619"
+      },
+      {
+        "image": "_nurul_hasan",
+        "name": " Nurul Hasan",
+        "url": "/player/410765"
+      },
+      {
+        "image": "_rony_talukder",
+        "name": " Rony Talukder",
+        "url": null
+      },
+      {
+        "image": "_shuvagoto_hom",
+        "name": " Shuvagoto Hom",
+        "url": null
+      },
+      {
+        "image": "_andrew_birch",
+        "name": " Andrew Birch",
+        "url": "/player/44413"
+      },
+      {
+        "image": "_ian_bell",
+        "name": " Ian Bell",
+        "url": "/player/9062"
+      },
+      {
+        "image": "_qazi_onik",
+        "name": " Qazi Onik",
+        "url": "/player/864553"
+      },
+      {
+        "image": "_mizanur_rahman",
+        "name": " Mizanur Rahman",
+        "url": "/player/329845"
+      },
+      {
+        "image": "_asif_hasan",
+        "name": " Asif Hasan",
+        "url": "/player/348050"
+      },
+      {
+        "image": "_shahadat_hossain",
+        "name": " Shahadat Hossain",
+        "url": "/player/56149"
+      },
+      {
+        "image": "_naim_sheikh.",
+        "name": " Naim Sheikh.",
+        "url": null
+      }
+    ]
+  },
+  {
+    "teamName": "Chittagong Vikings",
+    "retained_players": [
+      {
+        "image": "_sikandar_raza",
+        "name": " Sikandar Raza",
+        "url": "/player/299572"
+      },
+      {
+        "image": "_luke_ronchi",
+        "name": " Luke Ronchi",
+        "url": "/player/7502"
+      },
+      {
+        "image": "_najibullah_zadran",
+        "name": " Najibullah Zadran",
+        "url": "/player/524049"
+      },
+      {
+        "image": "_sunzamul_islam.",
+        "name": " Sunzamul Islam.",
+        "url": "/player/380974"
+      }
+    ],
+    "direct_signing_players": [
+      {
+        "image": "_mohammad_shahzad",
+        "name": " Mohammad Shahzad",
+        "url": "/player/56020"
+      },
+      {
+        "image": "_robbie_frylinck.",
+        "name": " Robbie Frylinck.",
+        "url": "/player/45204"
+      }
+    ],
+    "players": [
+      {
+        "image": "_mosaddek_hossain",
+        "name": " Mosaddek Hossain",
+        "url": "/player/55993"
+      },
+      {
+        "image": "_abu_jayed",
+        "name": " Abu Jayed",
+        "url": "/player/410763"
+      },
+      {
+        "image": "_khaled_ahmed",
+        "name": " Khaled Ahmed",
+        "url": "/player/927619"
+      },
+      {
+        "image": "_nayeem_hasan",
+        "name": " Nayeem Hasan",
+        "url": "/player/932635"
+      },
+      {
+        "image": "_cameron_delport",
+        "name": " Cameron Delport",
+        "url": "/player/322810"
+      },
+      {
+        "image": "_dasun_shanaka",
+        "name": " Dasun Shanaka",
+        "url": "/player/437316"
+      },
+      {
+        "image": "_mohammad_ashraful",
+        "name": " Mohammad Ashraful",
+        "url": "/player/55988"
+      },
+      {
+        "image": "_robiul_haque",
+        "name": " Robiul Haque",
+        "url": "/player/1123787"
+      },
+      {
+        "image": "_yasir_ali_chowdhury",
+        "name": " Yasir Ali Chowdhury",
+        "url": "/player/629059"
+      },
+      {
+        "image": "_nihaduzzaman",
+        "name": " Nihaduzzaman",
+        "url": "/player/629065"
+      },
+      {
+        "image": "_najibullah_zadran",
+        "name": " Najibullah Zadran",
+        "url": "/player/524049"
+      },
+      {
+        "image": "_salman_islam.",
+        "name": " Salman Islam.",
+        "url": null
+      }
+    ]
+  },
+  {
+    "teamName": "Rangpur Riders",
+    "retained_players": [
+      {
+        "image": "_chris_gayle",
+        "name": " Chris Gayle",
+        "url": "/player/51880"
+      },
+      {
+        "image": "_mashrafe_mortaza",
+        "name": " Mashrafe Mortaza",
+        "url": "/player/56007"
+      },
+      {
+        "image": "_nazmul_islam",
+        "name": " Nazmul Islam",
+        "url": "/player/446810"
+      },
+      {
+        "image": "_mohammad_mithun.",
+        "name": " Mohammad Mithun.",
+        "url": "/player/269237"
+      }
+    ],
+    "direct_signing_players": [
+      {
+        "image": "_ab_de_villiers",
+        "name": " AB de Villiers",
+        "url": "/player/44936"
+      },
+      {
+        "image": "_alex_hales.",
+        "name": " Alex Hales.",
+        "url": "/player/249866"
+      }
+    ],
+    "players": [
+      {
+        "image": "_shafiul_islam",
+        "name": " Shafiul Islam",
+        "url": "/player/288305"
+      },
+      {
+        "image": "_sohag_gazi",
+        "name": " Sohag Gazi",
+        "url": "/player/444135"
+      },
+      {
+        "image": "_farhad_reza",
+        "name": " Farhad Reza",
+        "url": "/player/55894"
+      },
+      {
+        "image": "_mehedi_maruf",
+        "name": " Mehedi Maruf",
+        "url": "/player/228210"
+      },
+      {
+        "image": "_ravi_bopara",
+        "name": " Ravi Bopara",
+        "url": "/player/10582"
+      },
+      {
+        "image": "_rilee_rossouw",
+        "name": " Rilee Rossouw",
+        "url": "/player/318845"
+      },
+      {
+        "image": "_nahidul_islam",
+        "name": " Nahidul Islam",
+        "url": "/player/675945"
+      },
+      {
+        "image": "_nadif_chowdhury",
+        "name": " Nadif Chowdhury",
+        "url": "/player/56053"
+      },
+      {
+        "image": "_abul_hasan",
+        "name": " Abul Hasan",
+        "url": "/player/373439"
+      },
+      {
+        "image": "_fardin_hossain_anik",
+        "name": " Fardin Hossain Anik",
+        "url": null
+      },
+      {
+        "image": "_benny_howell",
+        "name": " Benny Howell",
+        "url": "/player/211748"
+      },
+      {
+        "image": "_oshane_thomas.",
+        "name": " Oshane Thomas.",
+        "url": "/player/914567"
+      }
+    ]
+  },
+  {
+    "teamName": "Comilla Victorians",
+    "retained_players": [
+      {
+        "image": "_tamim_iqbal",
+        "name": " Tamim Iqbal",
+        "url": "/player/56194"
+      },
+      {
+        "image": "_imrul_kayes",
+        "name": " Imrul Kayes",
+        "url": "/player/280734"
+      },
+      {
+        "image": "_mohammad_saifuddin",
+        "name": " Mohammad Saifuddin",
+        "url": "/player/629070"
+      },
+      {
+        "image": "_shoaib_malik.",
+        "name": " Shoaib Malik.",
+        "url": "/player/42657"
+      }
+    ],
+    "direct_signing_players": [
+      {
+        "image": "_asela_gunaratne",
+        "name": " Asela Gunaratne",
+        "url": "/player/360456"
+      },
+      {
+        "image": "_liam_dawson.",
+        "name": " Liam Dawson.",
+        "url": "/player/211855"
+      }
+    ],
+    "players": [
+      {
+        "image": "_abu_hider",
+        "name": " Abu Hider",
+        "url": "/player/550137"
+      },
+      {
+        "image": "_anamul_haque",
+        "name": " Anamul Haque",
+        "url": "/player/380354"
+      },
+      {
+        "image": "_mahedi_hasan",
+        "name": " Mahedi Hasan",
+        "url": "/player/833087"
+      },
+      {
+        "image": "_ziaur_rahman",
+        "name": " Ziaur Rahman",
+        "url": "/player/56167"
+      },
+      {
+        "image": "_shahid_afridi",
+        "name": " Shahid Afridi",
+        "url": "/player/42639"
+      },
+      {
+        "image": "_thisara_perera",
+        "name": " Thisara Perera",
+        "url": "/player/233514"
+      },
+      {
+        "image": "_mosharraf_hossain",
+        "name": " Mosharraf Hossain",
+        "url": "/player/56017"
+      },
+      {
+        "image": "_mohammad_shahid",
+        "name": " Mohammad Shahid",
+        "url": "/player/42639"
+      },
+      {
+        "image": "_shamsur_rahman",
+        "name": " Shamsur Rahman",
+        "url": "/player/56154"
+      },
+      {
+        "image": "_sanjit_saha",
+        "name": " Sanjit Saha",
+        "url": "/player/821755"
+      },
+      {
+        "image": "_evin_lewis",
+        "name": " Evin Lewis",
+        "url": "/player/431901"
+      },
+      {
+        "image": "_waqar_salamkheil",
+        "name": " Waqar Salamkheil",
+        "url": null
+      },
+      {
+        "image": "_aamer_yamin.",
+        "name": " Aamer Yamin.",
+        "url": "/player/434429"
+      }
+    ]
+  },
+  {
+    "teamName": "Khulna Titans",
+    "retained_players": [
+      {
+        "image": "_mahmudullah_riyad",
+        "name": " Mahmudullah Riyad",
+        "url": null
+      },
+      {
+        "image": "_ariful_haque",
+        "name": " Ariful Haque",
+        "url": "/player/270135"
+      },
+      {
+        "image": "_nazmul_hossain_shanto",
+        "name": " Nazmul Hossain Shanto",
+        "url": "/player/629058"
+      },
+      {
+        "image": "_carlos_brathwaite.",
+        "name": " Carlos Brathwaite.",
+        "url": "/player/457249"
+      }
+    ],
+    "direct_signing_players": [
+      {
+        "image": "_dawid_malan",
+        "name": " Dawid Malan",
+        "url": "/player/236489"
+      },
+      {
+        "image": "_ali_khan.",
+        "name": " Ali Khan.",
+        "url": "/player/55974"
+      }
+    ],
+    "players": [
+      {
+        "image": "_jahurul_islam",
+        "name": " Jahurul Islam",
+        "url": "/player/55944"
+      },
+      {
+        "image": "_shoriful_islam",
+        "name": " Shoriful Islam",
+        "url": "/player/990039"
+      },
+      {
+        "image": "_taijul_islam",
+        "name": " Taijul Islam",
+        "url": "/player/401057"
+      },
+      {
+        "image": "_mohammad_al-amin",
+        "name": " Mohammad Al-Amin",
+        "url": "/player/932209"
+      },
+      {
+        "image": "_zahir_khan",
+        "name": " Zahir Khan",
+        "url": "/player/712219"
+      },
+      {
+        "image": "_sherfane_rutherford",
+        "name": " Sherfane Rutherford",
+        "url": "/player/914541"
+      },
+      {
+        "image": "_subhashis_roy",
+        "name": " Subhashis Roy",
+        "url": null
+      },
+      {
+        "image": "_junaid_siddiqui",
+        "name": " Junaid Siddiqui",
+        "url": "/player/494847"
+      },
+      {
+        "image": "_tanvir_islam",
+        "name": " Tanvir Islam",
+        "url": "/player/932665"
+      },
+      {
+        "image": "_mahidul_islam_ankon",
+        "name": " Mahidul Islam Ankon",
+        "url": "/player/995037"
+      },
+      {
+        "image": "_lasith_malinga",
+        "name": " Lasith Malinga",
+        "url": "/player/49758"
+      },
+      {
+        "image": "_yasir_shah",
+        "name": " Yasir Shah",
+        "url": "/player/43685"
+      },
+      {
+        "image": "_brendan_taylor.",
+        "name": " Brendan Taylor.",
+        "url": "/player/55814"
+      }
+    ]
+  },
+  {
+    "teamName": "Rajshahi Kings",
+    "retained_players": [
+      {
+        "image": "_mominul_haque",
+        "name": " Mominul Haque",
+        "url": "/player/373696"
+      },
+      {
+        "image": "_mehidy_hasan_miraz",
+        "name": " Mehidy Hasan Miraz",
+        "url": "/player/629063"
+      },
+      {
+        "image": "_mustafizur_rahman",
+        "name": " Mustafizur Rahman",
+        "url": "/player/330902"
+      },
+      {
+        "image": "_zakir_hasan.",
+        "name": " Zakir Hasan.",
+        "url": "/player/56166"
+      }
+    ],
+    "direct_signing_players": [
+      {
+        "image": "_qais_ahmed",
+        "name": " Qais Ahmed",
+        "url": null
+      },
+      {
+        "image": "_christiaan_jonker",
+        "name": " Christiaan Jonker",
+        "url": "/player/222320"
+      }
+    ],
+    "players": [
+      {
+        "image": "_soumya_sarkar",
+        "name": " Soumya Sarkar",
+        "url": "/player/436677"
+      },
+      {
+        "image": "_fazle_mahmud",
+        "name": " Fazle Mahmud",
+        "url": "/player/55893"
+      },
+      {
+        "image": "_arafat_sunny",
+        "name": " Arafat Sunny",
+        "url": "/player/56268"
+      },
+      {
+        "image": "_alauddin_babu",
+        "name": " Alauddin Babu",
+        "url": "/player/410768"
+      },
+      {
+        "image": "_isuru_udana",
+        "name": " Isuru Udana",
+        "url": "/player/328026"
+      },
+      {
+        "image": "_laurie_evans",
+        "name": " Laurie Evans",
+        "url": "/player/256956"
+      },
+      {
+        "image": "_marshal_ayub",
+        "name": " Marshal Ayub",
+        "url": "/player/228349"
+      },
+      {
+        "image": "_kamrul_islam",
+        "name": " Kamrul Islam",
+        "url": "/player/55961"
+      },
+      {
+        "image": "_ryan_ten_doeschate",
+        "name": " Ryan ten Doeschate",
+        "url": "/player/47660"
+      },
+      {
+        "image": "_seekkuge_prasanna",
+        "name": " Seekkuge Prasanna",
+        "url": "/player/268740"
+      },
+      {
+        "image": "_mohammad_sami.",
+        "name": " Mohammad Sami.",
+        "url": "/player/41324"
+      }
+    ]
+  },
+  {
+    "teamName": "Sylhet Sixers",
+    "retained_players": [
+      {
+        "image": "_nasir_hossain",
+        "name": " Nasir Hossain",
+        "url": "/player/300618"
+      },
+      {
+        "image": "_sabbir_rahman",
+        "name": " Sabbir Rahman",
+        "url": "/player/373538"
+      },
+      {
+        "image": "_liton_das",
+        "name": " Liton Das",
+        "url": "/player/536936"
+      },
+      {
+        "image": "_sohail_tanvir.",
+        "name": " Sohail Tanvir.",
+        "url": "/player/43265"
+      }
+    ],
+    "direct_signing_players": [
+      {
+        "image": "_david_warner",
+        "name": " David Warner",
+        "url": "/player/219889"
+      },
+      {
+        "image": "_sandeep_lamichhane.",
+        "name": " Sandeep Lamichhane.",
+        "url": "/player/960361"
+      }
+    ],
+    "players": [
+      {
+        "image": "_afif_hossain",
+        "name": " Afif Hossain",
+        "url": "/player/935995"
+      },
+      {
+        "image": "_taskin_ahmed",
+        "name": " Taskin Ahmed",
+        "url": "/player/538506"
+      },
+      {
+        "image": "_al-amin_hossain",
+        "name": " Al-Amin Hossain",
+        "url": "/player/511532"
+      },
+      {
+        "image": "_towhid_hridoy",
+        "name": " Towhid Hridoy",
+        "url": "/player/990031"
+      },
+      {
+        "image": "_fabian_allen",
+        "name": " Fabian Allen",
+        "url": "/player/670013"
+      },
+      {
+        "image": "_mohammad_irfan",
+        "name": " Mohammad Irfan",
+        "url": "/player/40577"
+      },
+      {
+        "image": "_nabil_samad",
+        "name": " Nabil Samad",
+        "url": "/player/56058"
+      },
+      {
+        "image": "_ebadat_hossain",
+        "name": " Ebadat Hossain",
+        "url": "/player/932355"
+      },
+      {
+        "image": "_alok_kapali",
+        "name": " Alok Kapali",
+        "url": "/player/56251"
+      },
+      {
+        "image": "_jaker_ali",
+        "name": " Jaker Ali",
+        "url": "/player/824541"
+      },
+      {
+        "image": "_gulbadin_naib",
+        "name": " Gulbadin Naib",
+        "url": "/player/352048"
+      },
+      {
+        "image": "_andre_fletcher",
+        "name": " Andre Fletcher",
+        "url": "/player/51862"
+      },
+      {
+        "image": "_mehedi_hassan_rana",
+        "name": " Mehedi Hassan Rana",
+        "url": null
+      },
+      {
+        "image": "_nicholas_pooran.",
+        "name": " Nicholas Pooran.",
+        "url": "/player/604302"
+      }
+    ]
+  }
+]
