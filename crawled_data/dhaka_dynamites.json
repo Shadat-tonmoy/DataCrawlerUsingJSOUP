@@ -1,0 +1,142 @@
+{
+  "teamName": "Dhaka Dynamites",
+  "retained_players": [
+    {
+      "bowlingStyle": "Slow left-arm orthodox",
+      "image": "shakib_al_hasan",
+      "playsFor": "Bangladesh",
+      "name": "Shakib Al Hasan",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/56143"
+    },
+    {
+      "bowlingStyle": "Right-arm offbreak",
+      "image": "sunil_narine",
+      "playsFor": "West Indies",
+      "name": "Sunil Narine",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/230558"
+    },
+    {
+      "bowlingStyle": "Right-arm medium-fast",
+      "image": "rovman_powell",
+      "playsFor": "West Indies",
+      "name": "Rovman Powell",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/820351"
+    },
+    {
+      "bowlingStyle": "Right-arm medium-fast",
+      "image": "kieron_pollard",
+      "playsFor": "West Indies",
+      "name": "Kieron Pollard",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/230559"
+    }
+  ],
+  "direct_signing_players": [
+    {
+      "bowlingStyle": "Right-arm fast",
+      "image": "andre_russell",
+      "playsFor": "West Indies",
+      "name": "Andre Russell",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/276298"
+    },
+    {
+      "bowlingStyle": "Slow left-arm orthodox",
+      "image": "hazratullah_zazai",
+      "playsFor": "Afghanistan",
+      "name": "Hazratullah Zazai",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/793457"
+    }
+  ],
+  "players": [
+    {
+      "bowlingStyle": "Right-arm fast",
+      "image": "rubel_hossain",
+      "playsFor": "Bangladesh",
+      "name": "Rubel Hossain",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/300619"
+    },
+    {
+      "bowlingStyle": "",
+      "image": "nurul_hasan",
+      "playsFor": "Bangladesh",
+      "name": "Nurul Hasan",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/410765"
+    },
+    {
+      "bowlingStyle": "Right-arm slow-medium",
+      "playsFor": "Bangladesh",	
+      "image": "rony_talukder",
+      "name": "Rony Talukder",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/300617"
+    },
+    {
+
+      "image": "shuvagoto_hom",
+      "name": "Shuvagoto Hom",
+      "url": null
+    },
+    {
+      "bowlingStyle": "Right-arm medium-fast",
+      "image": "andrew_birch",
+      "playsFor": "South Africa",
+      "name": "Andrew Birch",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/44413"
+    },
+    {
+      "bowlingStyle": "Right-arm medium",
+      "image": "ian_bell",
+      "playsFor": "England",
+      "name": "Ian Bell",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/9062"
+    },
+    {
+      "bowlingStyle": "Left-arm medium-fast",
+      "image": "qazi_onik",
+      "playsFor": "Bangladesh",
+      "name": "Qazi Onik",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/864553"
+    },
+    {
+      "bowlingStyle": "Right-arm offbreak",
+      "image": "mizanur_rahman",
+      "playsFor": "Bangladesh",
+      "name": "Mizanur Rahman",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/329845"
+    },
+    {
+      "bowlingStyle": "Slow left-arm orthodox",
+      "image": "asif_hasan",
+      "playsFor": "Bangladesh",
+      "name": "Asif Hasan",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/348050"
+    },
+    {
+      "bowlingStyle": "Right-arm medium-fast",
+      "image": "shahadat_hossain",
+      "playsFor": "Bangladesh",
+      "name": "Shahadat Hossain",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/56149"
+    },
+    {
+      "playsFor": "Bangladesh",	
+      "image": "naim_sheikh",
+      "name": "Naim Sheikh",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/990081"
+    }
+  ]
+}

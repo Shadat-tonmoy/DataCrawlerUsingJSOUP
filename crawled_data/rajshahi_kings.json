@@ -1,0 +1,145 @@
+{
+  "teamName": "Rajshahi Kings",
+  "retained_players": [
+    {
+      "bowlingStyle": "Slow left-arm orthodox",
+      "image": "mominul_haque",
+      "playsFor": "Bangladesh",
+      "name": "Mominul Haque",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/373696"
+    },
+    {
+      "bowlingStyle": "Right-arm offbreak",
+      "image": "mehidy_hasan_miraz",
+      "playsFor": "Bangladesh",
+      "name": "Mehidy Hasan Miraz",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/629063"
+    },
+    {
+      "bowlingStyle": "Left-arm fast-medium",
+      "image": "mustafizur_rahman",
+      "playsFor": "Bangladesh",
+      "name": "Mustafizur Rahman",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/330902"
+    },
+    {
+      "bowlingStyle": "Right-arm fast-medium",
+      "image": "zakir_hasan",
+      "playsFor": "Bangladesh",
+      "name": "Zakir Hasan",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/56166"
+    }
+  ],
+  "direct_signing_players": [
+    {
+      "bowlingStyle": "Legbreak",
+      "image": "qais_ahmed",
+      "playsFor": "Afghanistan",
+      "name": "Qais Ahmed",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/914171"
+    },
+    {
+      "bowlingStyle": "Right-arm medium-fast",
+      "image": "christiaan_jonker",
+      "playsFor": "South Africa",
+      "name": "Christiaan Jonker",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/222320"
+    }
+  ],
+  "players": [
+    {
+      "bowlingStyle": "Right-arm medium-fast",
+      "image": "soumya_sarkar",
+      "playsFor": "Bangladesh",
+      "name": "Soumya Sarkar",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/436677"
+    },
+    {
+      "bowlingStyle": "Legbreak",
+      "image": "fazle_mahmud",
+      "playsFor": "Bangladesh",
+      "name": "Fazle Mahmud",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/55893"
+    },
+    {
+      "bowlingStyle": "Slow left-arm orthodox",
+      "image": "arafat_sunny",
+      "playsFor": "Bangladesh",
+      "name": "Arafat Sunny",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/56268"
+    },
+    {
+      "bowlingStyle": "Right-arm medium-fast",
+      "image": "alauddin_babu",
+      "playsFor": "Bangladesh",
+      "name": "Alauddin Babu",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/410768"
+    },
+    {
+      "bowlingStyle": "Left-arm medium-fast",
+      "image": "isuru_udana",
+      "playsFor": "Sri Lanka",
+      "name": "Isuru Udana",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/328026"
+    },
+    {
+      "bowlingStyle": "Right-arm medium-fast",
+      "image": "laurie_evans",
+      "playsFor": "England",
+      "name": "Laurie Evans",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/256956"
+    },
+    {
+      "bowlingStyle": "Legbreak",
+      "image": "marshal_ayub",
+      "playsFor": "Bangladesh",
+      "name": "Marshal Ayub",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/228349"
+    },
+    {
+      "bowlingStyle": "Left-arm fast-medium",
+      "image": "kamrul_islam",
+      "playsFor": "Bangladesh",
+      "name": "Kamrul Islam",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/55961"
+    },
+    {
+      "bowlingStyle": "Right-arm medium-fast",
+      "image": "ryan_ten_doeschate",
+      "playsFor": "Netherlands",
+      "name": "Ryan ten Doeschate",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/47660"
+    },
+    {
+      "bowlingStyle": "Legbreak",
+      "image": "seekkuge_prasanna",
+      "playsFor": "Sri Lanka",
+      "name": "Seekkuge Prasanna",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/268740"
+    },
+    {
+      "bowlingStyle": "Right-arm fast",
+      "image": "mohammad_sami",
+      "playsFor": "Pakistan",
+      "name": "Mohammad Sami",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/41324"
+    }
+  ]
+}

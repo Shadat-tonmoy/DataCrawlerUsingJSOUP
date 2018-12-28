@@ -1,0 +1,169 @@
+{
+  "teamName": "Sylhet Sixers",
+  "retained_players": [
+    {
+      "bowlingStyle": "Right-arm offbreak",
+      "image": "nasir_hossain",
+      "playsFor": "Bangladesh",
+      "name": "Nasir Hossain",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/300618"
+    },
+    {
+      "bowlingStyle": "Legbreak",
+      "image": "sabbir_rahman",
+      "playsFor": "Bangladesh",
+      "name": "Sabbir Rahman",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/373538"
+    },
+    {
+      "bowlingStyle": "",
+      "image": "liton_das",
+      "playsFor": "Bangladesh",
+      "name": "Liton Das",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/536936"
+    },
+    {
+      "bowlingStyle": "Left-arm medium-fast",
+      "image": "sohail_tanvir",
+      "playsFor": "Pakistan",
+      "name": "Sohail Tanvir",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/43265"
+    }
+  ],
+  "direct_signing_players": [
+    {
+      "bowlingStyle": "Legbreak",
+      "image": "david_warner",
+      "playsFor": "Australia",
+      "name": "David Warner",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/219889"
+    },
+    {
+      "bowlingStyle": "Legbreak googly",
+      "image": "sandeep_lamichhane",
+      "playsFor": "Nepal",
+      "name": "Sandeep Lamichhane",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/960361"
+    }
+  ],
+  "players": [
+    {
+      "bowlingStyle": "Right-arm offbreak",
+      "image": "afif_hossain",
+      "playsFor": "Bangladesh",
+      "name": "Afif Hossain",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/935995"
+    },
+    {
+      "bowlingStyle": "Right-arm fast",
+      "image": "taskin_ahmed",
+      "playsFor": "Bangladesh",
+      "name": "Taskin Ahmed",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/538506"
+    },
+    {
+      "bowlingStyle": "Right-arm medium-fast",
+      "image": "alamin_hossain",
+      "playsFor": "Bangladesh",
+      "name": "Al-Amin Hossain",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/511532"
+    },
+    {
+      "bowlingStyle": "Right-arm offbreak",
+      "image": "towhid_hridoy",
+      "playsFor": "Bangladesh",
+      "name": "Towhid Hridoy",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/990031"
+    },
+    {
+      "bowlingStyle": "Slow left-arm orthodox",
+      "image": "fabian_allen",
+      "playsFor": "West Indies",
+      "name": "Fabian Allen",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/670013"
+    },
+    {
+      "bowlingStyle": "Right-arm fast-medium",
+      "image": "mohammad_irfan",
+      "playsFor": "Pakistan",
+      "name": "Mohammad Irfan",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/40577"
+    },
+    {
+      "bowlingStyle": "Slow left-arm orthodox",
+      "image": "nabil_samad",
+      "playsFor": "Bangladesh",
+      "name": "Nabil Samad",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/56058"
+    },
+    {
+      "bowlingStyle": "",
+      "image": "ebadat_hossain",
+      "playsFor": "Bangladesh",
+      "name": "Ebadat Hossain",
+      "battingStyle": "",
+      "url": "/player/932355"
+    },
+    {
+      "bowlingStyle": "Legbreak",
+      "image": "alok_kapali",
+      "playsFor": "Bangladesh",
+      "name": "Alok Kapali",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/56251"
+    },
+    {
+      "bowlingStyle": "",
+      "image": "jaker_ali",
+      "playsFor": "Bangladesh",
+      "name": "Jaker Ali",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/824541"
+    },
+    {
+      "bowlingStyle": "Right-arm medium-fast",
+      "image": "gulbadin_naib",
+      "playsFor": "Afghanistan",
+      "name": "Gulbadin Naib",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/352048"
+    },
+    {
+      "bowlingStyle": "Right-arm medium-fast, Legbreak",
+      "image": "andre_fletcher",
+      "playsFor": "West Indies",
+      "name": "Andre Fletcher",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/51862"
+    },
+    {
+      "image": "mehedi_hassan_rana",
+      "name": "Mehedi Hassan Rana",
+      "bowlingStyle": " Left-arm fast",
+      "playsFor": "Bangladesh",
+      "battingStyle": "Left-hand bat",
+      "url": null
+    },
+    {
+      "bowlingStyle": "",
+      "image": "nicholas_pooran",
+      "playsFor": "West Indies",
+      "name": "Nicholas Pooran",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/604302"
+    }
+  ]
+}

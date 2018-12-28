@@ -1,0 +1,162 @@
+{
+  "teamName": "Khulna Titans",
+  "retained_players": [
+    {
+      "bowlingStyle": "Right-arm offbreak",
+      "image": "mahmudullah_riyad",
+      "playsFor": "Bangladesh",
+      "name": "Mahmudullah Riyad",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/56025"
+      
+    },
+    {
+      "bowlingStyle": "Right-arm medium-fast",
+      "image": "ariful_haque",
+      "playsFor": "Bangladesh",
+      "name": "Ariful Haque",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/270135"
+    },
+    {
+      "bowlingStyle": "Right-arm offbreak",
+      "image": "nazmul_hossain_shanto",
+      "playsFor": "Bangladesh",
+      "name": "Nazmul Hossain Shanto",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/629058"
+    },
+    {
+      "bowlingStyle": "Right-arm fast-medium",
+      "image": "carlos_brathwaite",
+      "playsFor": "West Indies",
+      "name": "Carlos Brathwaite",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/457249"
+    }
+  ],
+  "direct_signing_players": [
+    {
+      "bowlingStyle": "Legbreak",
+      "image": "dawid_malan",
+      "playsFor": "England",
+      "name": "Dawid Malan",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/236489"
+    },
+    {
+      "bowlingStyle": "Left-arm medium",
+      "image": "ali_khan",
+      "playsFor": "Bangladesh",
+      "name": "Ali Khans",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/55974"
+    }
+  ],
+  "players": [
+    {
+      "bowlingStyle": "Right-arm offbreak",
+      "image": "jahurul_islam",
+      "playsFor": "Bangladesh",
+      "name": "Jahurul Islam",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/55944"
+    },
+    {
+      "bowlingStyle": "Left-arm medium-fast",
+      "image": "shoriful_islam",
+      "playsFor": "Bangladesh",
+      "name": "Shoriful Islam",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/990039"
+    },
+    {
+      "bowlingStyle": "Slow left-arm orthodox",
+      "image": "taijul_islam",
+      "playsFor": "Bangladesh",
+      "name": "Taijul Islam",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/401057"
+    },
+    {
+      "bowlingStyle": "",
+      "image": "mohammad_alamin",
+      "playsFor": "Bangladesh",
+      "name": "Mohammad Al-Amin",
+      "battingStyle": "",
+      "url": "/player/932209"
+    },
+    {
+      "bowlingStyle": "Slow left-arm chinaman",
+      "image": "zahir_khan",
+      "playsFor": "Afghanistan",
+      "name": "Zahir Khan",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/712219"
+    },
+    {
+      "bowlingStyle": "Right-arm fast-medium",
+      "image": "sherfane_rutherford",
+      "playsFor": "West Indies",
+      "name": "Sherfane Rutherford",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/914541"
+    },
+    {
+      "bowlingStyle": "Right-arm fast-medium",
+      "image": "subhashis_roy",
+      "playsFor": "Bangladesh",
+      "name": "Subhashis Roy",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/301847"
+    },
+    {
+      "bowlingStyle": "Legbreak",
+      "image": "junaid_siddiqui",
+      "playsFor": "Canada",
+      "name": "Junaid Siddiqui",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/494847"
+    },
+    {
+      "bowlingStyle": "",
+      "image": "tanvir_islam",
+      "playsFor": "Bangladesh",
+      "name": "Tanvir Islam",
+      "battingStyle": "",
+      "url": "/player/932665"
+    },
+    {
+      "bowlingStyle": "",
+      "image": "mahidul_islam_ankon",
+      "playsFor": "Bangladesh",
+      "name": "Mahidul Islam Ankon",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/995037"
+    },
+    {
+      "bowlingStyle": "Right-arm fast",
+      "image": "lasith_malinga",
+      "playsFor": "Sri Lanka",
+      "name": "Lasith Malinga",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/49758"
+    },
+    {
+      "bowlingStyle": "Legbreak googly",
+      "image": "yasir_shah",
+      "playsFor": "Pakistan",
+      "name": "Yasir Shah",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/43685"
+    },
+    {
+      "bowlingStyle": "Right-arm offbreak",
+      "image": "brendan_taylor",
+      "playsFor": "Zimbabwe",
+      "name": "Brendan Taylor",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/55814"
+    }
+  ]
+}

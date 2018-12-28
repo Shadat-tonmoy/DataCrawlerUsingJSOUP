@@ -1,0 +1,158 @@
+{
+  "teamName": "Comilla Victorians",
+  "retained_players": [
+    {
+      "bowlingStyle": "",
+      "image": "tamim_iqbal",
+      "playsFor": "Bangladesh",
+      "name": "Tamim Iqbal",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/56194"
+    },
+    {
+      "bowlingStyle": "",
+      "image": "imrul_kayes",
+      "playsFor": "Bangladesh",
+      "name": "Imrul Kayes",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/280734"
+    },
+    {
+      "bowlingStyle": "Right-arm medium-fast",
+      "image": "mohammad_saifuddin",
+      "playsFor": "Bangladesh",
+      "name": "Mohammad Saifuddin",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/629070"
+    },
+    {
+      "bowlingStyle": "Right-arm offbreak",
+      "image": "shoaib_malik",
+      "playsFor": "Pakistan",
+      "name": "Shoaib Malik",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/42657"
+    }
+  ],
+  "direct_signing_players": [
+    {
+      "bowlingStyle": "Right-arm medium-fast",
+      "image": "asela_gunaratne",
+      "playsFor": "Sri Lanka",
+      "name": "Asela Gunaratne",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/360456"
+    },
+    {
+      "bowlingStyle": "Slow left-arm orthodox",
+      "image": "liam_dawson",
+      "playsFor": "England",
+      "name": "Liam Dawson",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/211855"
+    }
+  ],
+  "players": [
+    {
+      "bowlingStyle": "Left-arm fast-medium",
+      "image": "abu_hider",
+      "playsFor": "Bangladesh",
+      "name": "Abu Hider",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/550137"
+    },
+    {
+      "bowlingStyle": "",
+      "image": "anamul_haque",
+      "playsFor": "Bangladesh",
+      "name": "Anamul Haque",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/380354"
+    },
+    {
+      "bowlingStyle": "Right-arm offbreak",
+      "image": "mahedi_hasan",
+      "playsFor": "Bangladesh",
+      "name": "Mahedi Hasan",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/833087"
+    },
+    {
+      "bowlingStyle": "Right-arm fast-medium",
+      "image": "ziaur_rahman",
+      "playsFor": "Bangladesh",
+      "name": "Ziaur Rahman",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/56167"
+    },
+    {
+      "bowlingStyle": "Legbreak googly",
+      "image": "shahid_afridi",
+      "playsFor": "Pakistan",
+      "name": "Shahid Afridi",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/42639"
+    },
+    {
+      "bowlingStyle": "Right-arm medium-fast",
+      "image": "thisara_perera",
+      "playsFor": "Sri Lanka",
+      "name": "Thisara Perera",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/233514"
+    },
+    {
+      "bowlingStyle": "Slow left-arm orthodox",
+      "image": "mosharraf_hossain",
+      "playsFor": "Bangladesh",
+      "name": "Mosharraf Hossain",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/56017"
+    },
+    {
+      "bowlingStyle": "Legbreak googly",
+      "image": "mohammad_shahid",
+      "playsFor": "Pakistan",
+      "name": "Mohammad Shahid",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/42639"
+    },
+    {
+      "bowlingStyle": "",
+      "image": "shamsur_rahman",
+      "playsFor": "Bangladesh",
+      "name": "Shamsur Rahman",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/56154"
+    },
+    {
+      "bowlingStyle": "Right-arm offbreak",
+      "image": "sanjit_saha",
+      "playsFor": "Bangladesh",
+      "name": "Sanjit Saha",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/821755"
+    },
+    {
+      "bowlingStyle": "",
+      "image": "evin_lewis",
+      "playsFor": "West Indies",
+      "name": "Evin Lewis",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/431901"
+    },
+    {
+      "image": "waqar_salamkheil",
+      "name": "Waqar Salamkheil",
+      "url": null
+    },
+    {
+      "bowlingStyle": "Right-arm medium",
+      "image": "aamer_yamin",
+      "playsFor": "Pakistan",
+      "name": "Aamer Yamin",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/434429"
+    }
+  ]
+}

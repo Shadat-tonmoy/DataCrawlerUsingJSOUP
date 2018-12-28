@@ -1,0 +1,150 @@
+{
+  "teamName": "Chittagong Vikings",
+  "retained_players": [
+    {
+      "bowlingStyle": "Right-arm offbreak",
+      "image": "sikandar_raza",
+      "playsFor": "Zimbabwe",
+      "name": "Sikandar Raza",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/299572"
+    },
+    {
+      "bowlingStyle": "",
+      "image": "luke_ronchi",
+      "playsFor": "New Zealand",
+      "name": "Luke Ronchi",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/7502"
+    },
+    {
+      "bowlingStyle": "Right-arm offbreak",
+      "image": "najibullah_zadran",
+      "playsFor": "Afghanistan",
+      "name": "Najibullah Zadran",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/524049"
+    },
+    {
+      "bowlingStyle": "Slow left-arm orthodox",
+      "image": "sunzamul_islam",
+      "playsFor": "Bangladesh",
+      "name": "Sunzamul Islam",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/380974"
+    }
+  ],
+  "direct_signing_players": [
+    {
+      "bowlingStyle": "Right-arm medium-fast",
+      "image": "mohammad_shahzad",
+      "playsFor": "Bangladesh",
+      "name": "Mohammad Shahzad",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/56020"
+    },
+    {
+      "bowlingStyle": "Right-arm medium",
+      "image": "robbie_frylinck",
+      "playsFor": "South Africa",
+      "name": "Robbie Frylinck",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/45204"
+    }
+  ],
+  "players": [
+    {
+      "bowlingStyle": "Legbreak",
+      "image": "mosaddek_hossain",
+      "playsFor": "Bangladesh",
+      "name": "Mosaddek Hossain",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/55993"
+    },
+    {
+      "bowlingStyle": "Right-arm fast-medium",
+      "image": "abu_jayed",
+      "playsFor": "Bangladesh",
+      "name": "Abu Jayed",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/410763"
+    },
+    {
+      "bowlingStyle": "Right-arm medium",
+      "image": "khaled_ahmed",
+      "playsFor": "Bangladesh",
+      "name": "Khaled Ahmed",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/927619"
+    },
+    {
+      "bowlingStyle": "",
+      "image": "nayeem_hasan",
+      "playsFor": "Bangladesh",
+      "name": "Nayeem Hasan",
+      "battingStyle": "",
+      "url": "/player/932635"
+    },
+    {
+      "bowlingStyle": "Right-arm medium",
+      "image": "cameron_delport",
+      "playsFor": "South Africa",
+      "name": "Cameron Delport",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/322810"
+    },
+    {
+      "bowlingStyle": "Right-arm medium",
+      "image": "dasun_shanaka",
+      "playsFor": "Sri Lanka",
+      "name": "Dasun Shanaka",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/437316"
+    },
+    {
+      "bowlingStyle": "Right-arm offbreak, Legbreak",
+      "image": "mohammad_ashraful",
+      "playsFor": "Bangladesh",
+      "name": "Mohammad Ashraful",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/55988"
+    },
+    {
+      "bowlingStyle": "Right-arm offbreak",
+      "image": "robiul_haque",
+      "playsFor": "Bangladesh",
+      "name": "Robiul Haque",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/1123787"
+    },
+    {
+      "bowlingStyle": "Right-arm offbreak",
+      "image": "yasir_ali_chowdhury",
+      "playsFor": "Bangladesh",
+      "name": "Yasir Ali Chowdhury",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/629059"
+    },
+    {
+      "bowlingStyle": "Slow left-arm orthodox",
+      "image": "nihaduzzaman",
+      "playsFor": "Bangladesh",
+      "name": "Nihaduzzaman",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/629065"
+    },
+    {
+      "bowlingStyle": "Right-arm offbreak",
+      "image": "najibullah_zadran",
+      "playsFor": "Afghanistan",
+      "name": "Najibullah Zadran",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/524049"
+    },
+    {
+      "image": "salman_islam",
+      "name": "Salman Islam",
+      "url": null
+    }
+  ]
+}

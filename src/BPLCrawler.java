@@ -29,7 +29,7 @@ public class BPLCrawler {
                     String name = (String) player.get("name");
                     String url = (String) player.get("url");
                     Utitlites.println("Name : "+name+"\tURL "+url+"\n");
-                    fetchPlayerDetail(url,name);
+//                    fetchPlayerDetail(url,name);
 
 
                 }
@@ -79,6 +79,7 @@ public class BPLCrawler {
                             team.put("retained_players",jsonArrayFromString(retained_players));
                             String[] direct_signing_players = parts[3].split(",");
                             team.put("direct_signing_players",jsonArrayFromString(direct_signing_players));
+//                            Utitlites.JSONFileWriter(teamName.toLowerCase().trim().replace(" ","_"),team);
                             jsonArray.add(team);
 //                            Utitlites.println("\n\nFor Team "+teamName+" Players\n"+players);
 //                            Utitlites.println("Retained For Team "+teamName+" Players\n"+retained_players);
@@ -97,7 +98,7 @@ public class BPLCrawler {
         }
     }
 
-    public static void fetchPlayerDetail(String url,String name)
+    public static JSONObject fetchPlayerDetail(String url,String name,JSONObject player)
     {
         try {
             Document document = Jsoup.connect(Constants.CRIC_API+url).get();
@@ -117,6 +118,18 @@ public class BPLCrawler {
                     attribute = attributeNode.text();
                 if(valueNode!=null)
                     value = valueNode.text();
+                if(attribute.contains("Plays for"))
+                {
+                    player.put("playsFor",value);
+                }
+                else if(attribute.contains("Batting Style"))
+                {
+                    player.put("battingStyle",value);
+                }
+                else if(attribute.contains("Bowling Style"))
+                {
+                    player.put("bowlingStyle",value);
+                }
                 Utitlites.println(attribute+" : "+value);
             }
 
@@ -189,12 +202,14 @@ public class BPLCrawler {
                 }
                 Utitlites.println("");
             }
-            fetchProfileImage(document,name.trim());
+//            fetchProfileImage(document,name.trim());
 
+            return player;
 
         }catch (Exception e)
         {
-//            e.printStackTrace();
+            e.printStackTrace();
+            return player;
 
         }
 
@@ -237,10 +252,13 @@ public class BPLCrawler {
         JSONArray jsonArray = new JSONArray();
         for(String name:arr)
         {
+            name = name.trim();
             JSONObject player = new JSONObject();
             player.put("name",name);
-            player.put("url",searchPlayer(name.trim()));
-            player.put("image",name.replace(" ","_").toLowerCase());
+            String url = searchPlayer(name);
+            player.put("url",url);
+            player.put("image",name.replace(" ","_").replace("-","").replace(".","").toLowerCase());
+            player = fetchPlayerDetail(url,name,player);
             jsonArray.add(player);
         }
         return jsonArray;

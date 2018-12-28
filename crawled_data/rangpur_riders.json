@@ -1,0 +1,150 @@
+{
+  "teamName": "Rangpur Riders",
+  "retained_players": [
+    {
+      "bowlingStyle": "Right-arm offbreak",
+      "image": "chris_gayle",
+      "playsFor": "West Indies",
+      "name": "Chris Gayle",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/51880"
+    },
+    {
+      "bowlingStyle": "Right-arm fast-medium",
+      "image": "mashrafe_mortaza",
+      "playsFor": "Bangladesh",
+      "name": "Mashrafe Mortaza",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/56007"
+    },
+    {
+      "bowlingStyle": "Slow left-arm orthodox",
+      "image": "nazmul_islam",
+      "playsFor": "Bangladesh",
+      "name": "Nazmul Islam",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/446810"
+    },
+    {
+      "bowlingStyle": "",
+      "image": "mohammad_mithun",
+      "playsFor": "Bangladesh",
+      "name": "Mohammad Mithun",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/269237"
+    }
+  ],
+  "direct_signing_players": [
+    {
+      "bowlingStyle": "Right-arm medium",
+      "image": "ab_de_villiers",
+      "playsFor": "South Africa",
+      "name": "AB de Villiers",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/44936"
+    },
+    {
+      "bowlingStyle": "Right-arm medium",
+      "image": "alex_hales",
+      "playsFor": "England",
+      "name": "Alex Hales",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/249866"
+    }
+  ],
+  "players": [
+    {
+      "bowlingStyle": "Right-arm fast-medium",
+      "image": "shafiul_islam",
+      "playsFor": "Bangladesh",
+      "name": "Shafiul Islam",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/288305"
+    },
+    {
+      "bowlingStyle": "Right-arm offbreak",
+      "image": "sohag_gazi",
+      "playsFor": "Bangladesh",
+      "name": "Sohag Gazi",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/444135"
+    },
+    {
+      "bowlingStyle": "Right-arm fast-medium",
+      "image": "farhad_reza",
+      "playsFor": "Bangladesh",
+      "name": "Farhad Reza",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/55894"
+    },
+    {
+      "bowlingStyle": "Right-arm offbreak",
+      "image": "mehedi_maruf",
+      "playsFor": "Bangladesh",
+      "name": "Mehedi Maruf",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/228210"
+    },
+    {
+      "bowlingStyle": "Right-arm medium",
+      "image": "ravi_bopara",
+      "playsFor": "England",
+      "name": "Ravi Bopara",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/10582"
+    },
+    {
+      "bowlingStyle": "Right-arm offbreak",
+      "image": "rilee_rossouw",
+      "playsFor": "South Africa",
+      "name": "Rilee Rossouw",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/318845"
+    },
+    {
+      "bowlingStyle": "Right-arm offbreak",
+      "image": "nahidul_islam",
+      "playsFor": "Bangladesh",
+      "name": "Nahidul Islam",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/675945"
+    },
+    {
+      "bowlingStyle": "Slow left-arm orthodox",
+      "image": "nadif_chowdhury",
+      "playsFor": "Bangladesh",
+      "name": "Nadif Chowdhury",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/56053"
+    },
+    {
+      "bowlingStyle": "Right-arm medium-fast",
+      "image": "abul_hasan",
+      "playsFor": "Bangladesh",
+      "name": "Abul Hasan",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/373439"
+    },
+    {
+      "image": "fardin_hossain_anik",
+      "name": "Fardin Hossain Anik",
+      "url": null
+    },
+    {
+      "bowlingStyle": "Right-arm medium-fast",
+      "image": "benny_howell",
+      "playsFor": "England",
+      "name": "Benny Howell",
+      "battingStyle": "Right-hand bat",
+      "url": "/player/211748"
+    },
+    {
+      "bowlingStyle": "Right-arm medium-fast",
+      "image": "oshane_thomas",
+      "playsFor": "West Indies",
+      "name": "Oshane Thomas",
+      "battingStyle": "Left-hand bat",
+      "url": "/player/914567"
+    }
+  ]
+}

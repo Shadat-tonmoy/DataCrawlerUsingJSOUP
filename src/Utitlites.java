@@ -1,6 +1,7 @@
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.IOUtils;
 import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
 
 import javax.imageio.ImageIO;
 import java.awt.*;
@@ -23,7 +24,7 @@ public class Utitlites {
 
 
 
-    public static void JSONFileWriter(String fileName,JSONArray jsonArray)
+    public static void JSONFileWriter(String fileName, JSONObject jsonArray)
     {
         String filePath = Constants.CURRENT_DIR + "/crawled_data/"+fileName+".json";
 //        System.out.println(jsonArray.toString());

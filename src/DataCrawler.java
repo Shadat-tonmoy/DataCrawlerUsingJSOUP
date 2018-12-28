@@ -11,7 +11,7 @@ import java.util.ArrayList;
 
 public class DataCrawler {
     public static void main(String args[]) {
-        BPLCrawler.readLocalData();
+        BPLCrawler.crawlData();
     }
 
 
