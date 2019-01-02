@@ -1,0 +1,244 @@
+{
+  "fixture": [
+    {
+      "date": "Date",
+      "venue": "Venue",
+      "match": "Match"
+    },
+    {
+      "date": "5 January 2019",
+      "venue": "Dhaka",
+      "match": "Dhaka Dynamites vs Rangpur Riders"
+    },
+    {
+      "date": "5 January 2019",
+      "venue": "Dhaka",
+      "match": "Rangpur Riders vs Rajshahi Kings"
+    },
+    {
+      "date": "6 January 2019",
+      "venue": "Dhaka",
+      "match": "Comilla Victorians vs Sylhet Sixers"
+    },
+    {
+      "date": "6 January 2019",
+      "venue": "Dhaka",
+      "match": "Dhaka Dynamites vs Khulna Titans"
+    },
+    {
+      "date": "7 January 2019",
+      "venue": "Dhaka",
+      "match": "Comilla Victorians vs Chittagong Vikings"
+    },
+    {
+      "date": "7 January 2019",
+      "venue": "Dhaka",
+      "match": "Rajshahi Kings vs Sylhet Sixers"
+    },
+    {
+      "date": "8 January 2019",
+      "venue": "Dhaka",
+      "match": "Rangpur Riders vs Chittagong Vikings"
+    },
+    {
+      "date": "8 January 2019",
+      "venue": "Dhaka",
+      "match": "Khulna Titans vs Sylhet Sixers"
+    },
+    {
+      "date": "9 January 2019",
+      "venue": "Dhaka",
+      "match": "Rangpur Riders vs Rajshahi Kings"
+    },
+    {
+      "date": "9 January 2019",
+      "venue": "Dhaka",
+      "match": "Dhaka Dynamites vs Sylhet Sixers"
+    },
+    {
+      "date": "10 January 2019",
+      "venue": "Dhaka",
+      "match": "Khulna Titans vs Chittagong Vikings"
+    },
+    {
+      "date": "10 January 2019",
+      "venue": "Dhaka",
+      "match": "Comilla Victorians vs Rajshahi Kings"
+    },
+    {
+      "date": "11 January 2019",
+      "venue": "Sylhet",
+      "match": "Khulna Titans vs Dhaka Dynamites"
+    },
+    {
+      "date": "11 January 2019",
+      "venue": "Sylhet",
+      "match": "Chittagong Vikings vs Comilla Victorians"
+    },
+    {
+      "date": "12 January 2019",
+      "venue": "Sylhet",
+      "match": "Khulna Titans vs Sylhet Sixers"
+    },
+    {
+      "date": "12 January 2019",
+      "venue": "Sylhet",
+      "match": "Chittagong Vikings vs Dhaka Dynamites"
+    },
+    {
+      "date": "13 January 2019",
+      "venue": "Sylhet",
+      "match": "Sylhet Sixers vs Rajshahi Kings"
+    },
+    {
+      "date": "13 January 2019",
+      "venue": "Sylhet",
+      "match": "Khulna Titans vs Chittagong Vikings"
+    },
+    {
+      "date": "14 January 2019",
+      "venue": "Sylhet",
+      "match": "Dhaka Dynamites vs Rajshahi Kings"
+    },
+    {
+      "date": "14 January 2019",
+      "venue": "Sylhet",
+      "match": "Comilla Victorians vs Rangpur Riders"
+    },
+    {
+      "date": "15 January 2019",
+      "venue": "Sylhet",
+      "match": "Dhaka Dynamites vs Comilla Victorians"
+    },
+    {
+      "date": "15 January 2019",
+      "venue": "Sylhet",
+      "match": "Rangpur Riders vs Sylhet Sixers"
+    },
+    {
+      "date": "16 January 2019",
+      "venue": "Sylhet",
+      "match": "Khulna Titans vs Rajshahi Kings"
+    },
+    {
+      "date": "16 January 2019",
+      "venue": "Sylhet",
+      "match": "Dhaka Dynamites vs Sylhet Sixers"
+    },
+    {
+      "date": "17 January 2019",
+      "venue": "Chittagong",
+      "match": "Rangpur Riders vs Khulna Titans"
+    },
+    {
+      "date": "17 January 2019",
+      "venue": "Chittagong",
+      "match": "Sylhet Sixers vs Chittagong Vikings"
+    },
+    {
+      "date": "18 January 2019",
+      "venue": "Chittagong",
+      "match": "Comilla Victorians vs Rajshahi Kings"
+    },
+    {
+      "date": "18 January 2019",
+      "venue": "Chittagong",
+      "match": "Rangpur Riders vs Chittagong Vikings"
+    },
+    {
+      "date": "19 January 2019",
+      "venue": "Chittagong",
+      "match": "Chittagong Vikings vs Dhaka Dynamites"
+    },
+    {
+      "date": "19 January 2019",
+      "venue": "Chittagong",
+      "match": "Khulna Titans vs Rajshahi Kings"
+    },
+    {
+      "date": "20 January 2019",
+      "venue": "Chittagong",
+      "match": "Rangpur Riders vs Sylhet Sixers"
+    },
+    {
+      "date": "20 January 2019",
+      "venue": "Chittagong",
+      "match": "Comilla Victorians vs Khulna Titans"
+    },
+    {
+      "date": "21 January 2019",
+      "venue": "Chittagong",
+      "match": "Rajshahi Kings vs Chittagong Vikings"
+    },
+    {
+      "date": "21 January 2019",
+      "venue": "Chittagong",
+      "match": "Comilla Victorians vs Dhaka Dynamites"
+    },
+    {
+      "date": "22 January 2019",
+      "venue": "Chittagong",
+      "match": "Rangpur Riders vs Comilla Victorians"
+    },
+    {
+      "date": "22 January 2019",
+      "venue": "Chittagong",
+      "match": "Dhaka Dynamites vs Rajshahi Kings"
+    },
+    {
+      "date": "23 January 2019",
+      "venue": "Dhaka",
+      "match": "Sylhet Sixers vs Chittagong Vikings"
+    },
+    {
+      "date": "24 January 2019",
+      "venue": "Dhaka",
+      "match": "Rangpur Riders vs Khulna Titans"
+    },
+    {
+      "date": "25 January 2019",
+      "venue": "Dhaka",
+      "match": "Khulna Titans vs Comilla Victorians"
+    },
+    {
+      "date": "26 January 2019",
+      "venue": "Dhaka",
+      "match": "Rajshahi Kings vs Chittagong Vikings"
+    },
+    {
+      "date": "27 January 2019",
+      "venue": "Dhaka",
+      "match": "Dhaka Dynamites vs Rangpur Riders"
+    },
+    {
+      "date": "28 January 2019",
+      "venue": "Dhaka",
+      "match": "Comilla Victorians vs Sylhet Sixers"
+    },
+    {
+      "date": "31 January 2019",
+      "venue": "Dhaka",
+      "match": "Eliminator"
+    },
+    {
+      "date": "2 February 2019",
+      "venue": "Dhaka",
+      "match": "1st Qualifier"
+    },
+    {
+      "date": "4 February 2019",
+      "venue": "Dhaka",
+      "match": "2nd Qualifier"
+    },
+    {
+      "date": "8 February 2019",
+      "venue": "Dhaka",
+      "match": "BPL Final 2018-19"
+    },
+    {
+      "date": "9 February 2019",
+      "venue": "Dhaka",
+      "match": "Reserve Day for BPL T20 Final 2019"
+    }
+  ]
+}

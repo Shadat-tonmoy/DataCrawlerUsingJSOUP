@@ -3,6 +3,7 @@ public class Constants {
     public static final String PAGE_LINK = "http://www.loveusms.com/bangla-sms/valobashar.html?page=";
     public static final String SEARCH_URL = "https://www.cricapi.com/players/?search=";
     public static final String CRIC_API = "https://www.cricapi.com";
+    public static final String FIXTURE_URL = "https://www.sportskeeda.com/cricket/bangladesh-premier-league-schedule";
     public static final String CURRENT_DIR = System.getProperty("user.dir");
     public static final String Dhaka_Dynamites = "Dhaka Dynamites";
     public static final String Chittagong_Vikings = "Chittagong Vikings";

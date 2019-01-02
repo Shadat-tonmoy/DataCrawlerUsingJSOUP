@@ -215,6 +215,41 @@ public class BPLCrawler {
 
     }
 
+    public static void fetchFixture()
+    {
+        try {
+            Document document = Jsoup.connect(Constants.FIXTURE_URL).get();
+            Elements tables = document.getElementsByTag("table");
+            Element fixtureTable = tables.get(0);
+            Elements rows = fixtureTable.getElementsByTag("tr");
+            Utitlites.println("Fixture\n");
+            JSONArray jsonArray = new JSONArray();
+            JSONObject fixtureObject = new JSONObject();
+            for(Element row:rows)
+            {
+                Elements data = row.getElementsByTag("td");
+                String date = data.get(0).text();
+                String match = data.get(1).text();
+                String time = data.get(2).text();
+                String venue = data.get(3).text();
+                JSONObject jsonObject = new JSONObject();
+                jsonObject.put("date",date);
+                jsonObject.put("match",match);
+                jsonObject.put("time",time);
+                jsonObject.put("venue",venue);
+                jsonArray.add(jsonObject);
+                Utitlites.println(date+" "+match+" "+venue);
+            }
+            fixtureObject.put("fixture",jsonArray);
+            Utitlites.JSONFileWriter("bpl_fixture",fixtureObject);
+
+        }catch (Exception e)
+        {
+            e.printStackTrace();
+        }
+
+    }
+
     private static void fetchProfileImage(Document document,String playerName)
     {
         Element imageNode = document.getElementsByTag("img").first();
