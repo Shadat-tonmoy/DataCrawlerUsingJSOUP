@@ -14,9 +14,9 @@ import java.util.Date;
 import java.util.Locale;
 
 public class DataCrawler {
+
     public static void main(String args[]) {
-//        BPLCrawler.fetchFixture();
-        getLiveScoreData();
+        LanguageCodeCrawler.crawlLanguageCode();
 
     }
 
