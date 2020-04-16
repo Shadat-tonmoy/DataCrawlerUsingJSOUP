@@ -1,19 +1,14 @@
-import org.apache.commons.io.FileUtils;
+package utility;
+
 import org.apache.commons.io.IOUtils;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
-import javax.imageio.ImageIO;
-import java.awt.*;
-import java.awt.image.BufferedImage;
 import java.io.*;
 import java.net.URL;
-import java.nio.file.Files;
-import java.nio.file.Paths;
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
 
 public class Utitlites {
@@ -39,6 +34,26 @@ public class Utitlites {
                 file.createNewFile();
             FileWriter fileWriter = new FileWriter(file);
             fileWriter.write(jsonArray.toString());
+            System.out.println("Successfully Copied JSON Object to File... at " + filePath);
+            fileWriter.close();
+
+        }catch (Exception e)
+        {
+            e.printStackTrace();
+        }
+
+    }
+
+    public static void JSONFileWriter(String fileName, String jsonString)
+    {
+        String filePath = Constants.CURRENT_DIR + "/crawled_data/"+fileName+".json";
+//        System.out.println(jsonArray.toString());
+        try {
+            File file = new File(filePath);
+            if (!file.exists())
+                file.createNewFile();
+            FileWriter fileWriter = new FileWriter(file);
+            fileWriter.write(jsonString);
             System.out.println("Successfully Copied JSON Object to File... at " + filePath);
             fileWriter.close();
 
@@ -140,7 +155,7 @@ public class Utitlites {
                 File renamedFile = new File(Constants.CURRENT_DIR+"/languages_pics/renamed/"+languageName+".png");
                 if(!renamedFile.exists())
                 {
-//                    Utitlites.println("RenamedTo "+renamedFile.getName());
+//                    utility.Utitlites.println("RenamedTo "+renamedFile.getName());
                     if(file.renameTo(renamedFile))
                         Utitlites.println("Renamed");
                     else Utitlites.println("Error Renaming");

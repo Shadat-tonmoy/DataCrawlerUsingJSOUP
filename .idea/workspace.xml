@@ -2,368 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef5100ef-23aa-4735-be42-6d85028b825b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/language_data/languages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/abkhazia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/afghanistan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/aland-islands.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/albania.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/algeria.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/american-samoa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/andorra.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/angola.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/anguilla.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/antigua-and-barbuda.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/argentina.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/armenia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/aruba.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/australia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/austria.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/azerbaijan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/azores-islands.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/bahamas.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/bahrain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/balearic-islands.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/bangladesh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/barbados.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/basque-country.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/belarus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/belgium.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/belize.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/benin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/bermuda.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/bhutan-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/bhutan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/bolivia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/bonaire.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/bosnia-and-herzegovina.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/botswana.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/brazil.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/british-columbia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/british-indian-ocean-territory.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/british-virgin-islands.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/brunei.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/bulgaria.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/burkina-faso.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/burundi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/cambodia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/cameroon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/canada.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/canary-islands.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/cape-verde.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/cayman-islands.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/central-african-republic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/ceuta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/chad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/chile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/china.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/christmas-island.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/cocos-island.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/colombia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/comoros.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/cook-islands.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/corsica.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/costa-rica.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/croatia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/cuba.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/curacao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/cyprus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/czech-republic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/democratic-republic-of-congo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/denmark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/djibouti.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/dominica.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/dominican-republic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/east-timor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/ecuador.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/egypt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/england.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/equatorial-guinea.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/eritrea.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/estonia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/ethiopia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/european-union.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/falkland-islands.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/faroe-islands.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/fiji.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/finland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/france.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/french-polynesia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/gabon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/galapagos-islands.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/gambia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/georgia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/germany.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/ghana.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/gibraltar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/greece.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/greenland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/grenada.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/guam.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/guatemala.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/guernsey.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/guinea-bissau.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/guinea.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/guyana.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/haiti.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/hawaii.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/honduras.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/hong-kong.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/hungary.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/iceland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/india.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/indonesia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/iran.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/iraq.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/ireland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/isle-of-man.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/israel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/italy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/ivory-coast.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/jamaica.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/japan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/jersey.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/jordan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/kazakhstan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/kenya.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/kiribati.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/kosovo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/kuwait.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/kyrgyzstan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/laos.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/latvia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/lebanon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/lesotho.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/liberia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/libya.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/liechtenstein.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/lithuania.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/luxembourg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/macao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/madagascar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/madeira.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/malawi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/malaysia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/maldives.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/mali.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/malta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/marshall-island.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/martinique.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/mauritania.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/mauritius.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/melilla.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/mexico.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/micronesia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/moldova.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/monaco.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/mongolia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/montenegro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/montserrat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/morocco.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/mozambique.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/myanmar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/namibia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/nato.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/nauru.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/nepal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/netherlands.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/new-zealand.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/nicaragua.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/niger.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/nigeria.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/niue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/norfolk-island.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/north-korea.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/northen-cyprus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/northern-marianas-islands.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/norway.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/oman.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/orkney-islands.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/ossetia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/pakistan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/palau.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/palestine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/panama.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/papua-new-guinea.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/paraguay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/peru.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/philippines.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/pitcairn-islands.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/portugal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/puerto-rico.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/qatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/rapa-nui.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/republic-of-macedonia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/republic-of-poland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/republic-of-the-congo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/romania.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/russia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/rwanda.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/saba-island.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/saint-kitts-and-nevis.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/salvador.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/samoa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/san-marino.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/sao-tome-and-principe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/sardinia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/saudi-arabia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/scotland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/senegal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/serbia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/seychelles.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/sierra-leone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/singapore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/sint-eustatius.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/sint-maarten.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/slovakia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/slovenia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/solomon-islands.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/somalia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/somaliland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/south-africa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/south-korea.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/south-sudan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/spain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/sri-lanka.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/st-barts.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/st-lucia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/st-vincent-and-the-grenadines.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/sudan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/suriname.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/swaziland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/sweden.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/switzerland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/syria.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/taiwan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/tajikistan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/tanzania.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/thailand.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/tibet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/togo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/tokelau.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/tonga.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/transnistria.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/trinidad-and-tobago.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/tunisia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/turkey.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/turkmenistan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/turks-and-caicos.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/tuvalu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/uganda.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/ukraine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/united-arab-emirates.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/united-kingdom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/united-nations.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/united-states-of-america.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/uruguay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/uzbekistn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/vanuatu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/vatican-city.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/venezuela.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/vietnam.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/virgin-islands.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/wales.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/western-sahara.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/yemen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/zambia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages_pics/zimbabwe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LanguageCodeCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EnglishWordCollections/EnglishWordCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EnglishWordCollections/ListOfWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EnglishWordCollections/Word.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataCrawlerUsingJSOUP/DataCrawler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataCrawlerUsingJSOUP/DataCrawler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataCrawlerUsingJSOUP/Utitlites.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataCrawlerUsingJSOUP/Utitlites.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataCrawlerUsingJSOUP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DataCrawlerUsingJSOUP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BPLCrawler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BPLCrawler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utility/Constants.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DataCrawler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataCrawler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Utitlites.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utitlites.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LanguageCodeCrawler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LanguageCodeCrawler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoveUSMSCrawler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoveUSMSCrawler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Utitlites.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utility/Utitlites.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BPLCrawler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="222" column="43" selection-start-line="222" selection-start-column="43" selection-end-line="222" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DataCrawler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LanguageCodeCrawler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="34" column="47" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Utitlites.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="143" column="50" selection-start-line="143" selection-start-column="50" selection-end-line="143" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LoveUSMSCrawler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="55" column="31" selection-start-line="47" selection-start-column="12" selection-end-line="55" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawled_data/bpl_fixture.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="20" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawled_data/chittagong_vikings.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawled_data/BPLPlayersWithURL.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -372,81 +32,28 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>mohammad_i</find>
-      <find>Rony</find>
-      <find>MatchedWith</find>
-      <find>RenamedTo</find>
-      <find>renamedTo</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/LoveUSMSCrawler.java" />
-        <option value="$PROJECT_DIR$/src/Constants.java" />
-        <option value="$PROJECT_DIR$/src/BPLCrawler.java" />
-        <option value="$PROJECT_DIR$/src/DataCrawler.java" />
-        <option value="$PROJECT_DIR$/src/Utitlites.java" />
-      </list>
-    </option>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="683" />
-    <option name="y" value="25" />
-    <option name="width" value="683" />
-    <option name="height" value="743" />
-  </component>
+  <component name="ProjectId" id="1abkGw0u4BPJsIABAUzBXCzfy4O" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="DataCrawlerUsingJSOUP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataCrawlerUsingJSOUP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataCrawlerUsingJSOUP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataCrawlerUsingJSOUP" type="462c0819:PsiDirectoryNode" />
-              <item name="languages_pics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataCrawlerUsingJSOUP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataCrawlerUsingJSOUP" type="462c0819:PsiDirectoryNode" />
-              <item name="languages_pics" type="462c0819:PsiDirectoryNode" />
-              <item name="renamed" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataCrawlerUsingJSOUP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataCrawlerUsingJSOUP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Course" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551089440493" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551090066312" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -460,19 +67,7 @@
       <recent name="$PROJECT_DIR$/lib" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.EnglishWordCrawler">
     <configuration name="DataCrawler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataCrawler" />
       <module name="DataCrawlerUsingJSOUP" />
@@ -480,8 +75,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EnglishWordCrawler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EnglishWordCollections.EnglishWordCrawler" />
+      <module name="DataCrawlerUsingJSOUP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EnglishWordCrawler" />
         <item itemvalue="Application.DataCrawler" />
       </list>
     </recent_temporary>
@@ -508,214 +111,46 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="1366" y="25" width="1366" height="743" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.30227274" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41856676" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32899022" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32954547" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SMS/data.txt" />
-    <entry file="file://$PROJECT_DIR$/SMS/data.json" />
-    <entry file="file://$PROJECT_DIR$/crawled_data/BPLPlayers.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawled_data/images/nayeem_hasan.jpg" />
-    <entry file="file://$PROJECT_DIR$/crawled_data/dhaka_dynamites.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1453" selection-start-column="1449" selection-end-column="1453" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawled_data/khulna_titans.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/text/SimpleDateFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3825">
-          <caret line="73" column="4" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
-          <folding>
-            <element signature="e#23443#23444#0" expanded="true" />
-            <element signature="e#23515#23516#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BPLCrawler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="222" column="43" selection-start-line="222" selection-start-column="43" selection-end-line="222" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawled_data/bpl_fixture.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawled_data/chittagong_vikings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawled_data/BPLPlayersWithURL.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="116" selection-start-line="5" selection-start-column="116" selection-end-line="5" selection-end-column="116" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LoveUSMSCrawler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="55" column="31" selection-start-line="47" selection-start-column="12" selection-end-line="55" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/language_data/languages.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataCrawler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LanguageCodeCrawler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="34" column="47" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Utitlites.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="143" column="50" selection-start-line="143" selection-start-column="50" selection-end-line="143" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>SMSCrawler</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="1857" y="102" width="544" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1587013877473">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1857" y="102" width="544" height="562" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1587013877473" />
+    <state x="1890" y="275" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587011626823">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1890" y="275" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1587011626823" />
+    <state x="1875" y="18" width="707" height="731" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1587013607487">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1875" y="18" width="707" height="731" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1587013607487" />
+    <state x="1733" y="0" width="622" height="768" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587013900918">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1733" y="0" width="622" height="768" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1587013900918" />
+    <state width="1320" height="241" key="GridCell.Tab.0.bottom" timestamp="1587014246307">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="241" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1587014246307" />
+    <state width="1320" height="241" key="GridCell.Tab.0.center" timestamp="1587014246307">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="241" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1587014246307" />
+    <state width="1320" height="241" key="GridCell.Tab.0.left" timestamp="1587014246307">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="241" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1587014246307" />
+    <state width="1320" height="241" key="GridCell.Tab.0.right" timestamp="1587014246307">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="241" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1587014246307" />
+    <state x="1532" y="0" width="1024" height="768" key="SettingsEditor" timestamp="1587013611352">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1532" y="0" width="1024" height="768" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1587013611352" />
+    <state x="1716" y="280" width="646" height="208" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1587013543650">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1716" y="280" width="646" height="208" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1587013543650" />
   </component>
 </project>

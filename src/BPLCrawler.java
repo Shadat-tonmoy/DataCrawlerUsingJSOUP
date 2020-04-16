@@ -6,6 +6,8 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+import utility.Constants;
+import utility.Utitlites;
 
 import java.io.FileReader;
 
@@ -79,19 +81,19 @@ public class BPLCrawler {
                             team.put("retained_players",jsonArrayFromString(retained_players));
                             String[] direct_signing_players = parts[3].split(",");
                             team.put("direct_signing_players",jsonArrayFromString(direct_signing_players));
-//                            Utitlites.JSONFileWriter(teamName.toLowerCase().trim().replace(" ","_"),team);
+//                            utility.Utitlites.JSONFileWriter(teamName.toLowerCase().trim().replace(" ","_"),team);
                             jsonArray.add(team);
-//                            Utitlites.println("\n\nFor Team "+teamName+" Players\n"+players);
-//                            Utitlites.println("Retained For Team "+teamName+" Players\n"+retained_players);
-//                            Utitlites.println("Direct Signing For Team "+teamName+" Players\n"+direct_signing_players);
+//                            utility.Utitlites.println("\n\nFor Team "+teamName+" Players\n"+players);
+//                            utility.Utitlites.println("Retained For Team "+teamName+" Players\n"+retained_players);
+//                            utility.Utitlites.println("Direct Signing For Team "+teamName+" Players\n"+direct_signing_players);
 
                         }
                     }
-//                    Utitlites.println("Element "+paraElement.text()+"\n\n\n");
+//                    utility.Utitlites.println("Element "+paraElement.text()+"\n\n\n");
                 }
             }
             Utitlites.println(jsonArray.toString());
-//            Utitlites.JSONFileWriter("BPLPlayersWithURL",jsonArray);
+//            utility.Utitlites.JSONFileWriter("BPLPlayersWithURL",jsonArray);
         }catch (Exception e)
         {
             e.printStackTrace();

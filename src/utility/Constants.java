@@ -1,3 +1,5 @@
+package utility;
+
 public class Constants {
     public static final String BPL_LINK = "https://www.latestly.com/sports/cricket/bpl-2019-complete-squads-full-players-list-of-all-bangladesh-premier-league-t20-teams-461432.html";
     public static final String PAGE_LINK = "http://www.loveusms.com/bangla-sms/valobashar.html?page=";
